@@ -33,6 +33,7 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 ![Patern Banner](https://cdn.democraft.fr/r/patern.png)
 
 ## 🌟 Notre Logo
+Notre Logo est disponible en trois versions - vous êtes libres d'utiliser l'image que vous shouaitez ou qui correspond le mieux à vos besoins.
 
 {{< table "table-fixed table-hover" >}}
 |                      Logo Officiel                       |           Logo Pixel perfect (avec bord arrondis)            |                           Logo Vide                           |
@@ -43,7 +44,7 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 
 
 ## 📦 Nos Rendus 3D
-Djjdj
+Comme nous sommes un serveur Minecraft, nous avons aussi réalisé divers rendu 3D "*à la minecraft*" pour les posters sur divers plateformes.
 
 
 
@@ -69,7 +70,7 @@ Ce rendu 3D apparaît dans le menu de pause de Minecraft: Bedrock Edition.
 
 Nous avons aussi un style de dessin pour réaliser les rendus des membres de notre serveur. Voici un exemple avec notre staff actuel.
 
-{{< table "table-fixed table-hover" >}}
+{{< table "table-fixed table-hover table-xs table-borderless" >}}
 |                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
 | :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
 | ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png)|
@@ -77,12 +78,16 @@ Nous avons aussi un style de dessin pour réaliser les rendus des membres de not
 | ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) | ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png) | ![TOTO](https://cdn.democraft.fr/r/char_toto.png) |
 {{< /table >}}
 
-En plus du style partagé entre les avatars, vous retrouverez 
+En plus du style partagé entre les avatars, vous retrouverez la palette de blocs derrière chaque avatar avec les couleurs qui correspondent au grades des membres du staff. Il existe aussi des avatars pour les joueurs, comme ces exemples
 
-|                                                     |                                                   |                                                    |
+
+{{< table "table-fixed table-hover table-xs table-borderless" >}}
+| Cosmo                                               | Ludo                                              | Code N.Y.                                          |
 | --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
 | ![Cosmo](https://cdn.democraft.fr/r/char_cosmo.png) | ![Ludo](https://cdn.democraft.fr/r/char_ludo.png) | ![Code NY](https://cdn.democraft.fr/r/char_ny.png) |
+{{< /table >}}
 
-Yup!
+*Nous effectuons des commissions et giveway fréquents d'avatars :)*
 
 # 📝 Conclusion
+Nous espérons vous avoir partager assez de ressources pour alimenter votre article !

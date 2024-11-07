@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiFan",
       "LiNewspaper",
       "LiScale",
       "LiArchive",
-      "LiBoxes",
-      "LiBox"
+      "LiBoxes"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,5 +39,6 @@
   "custom": "LiPickaxe",
   "resources": "LiArchive",
   "legal": "LiScale",
-  "resources/press.md": "LiNewspaper"
+  "resources/press.md": "LiNewspaper",
+  "worlds/faction": "LiFan"
 }
