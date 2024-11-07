@@ -6,8 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiEarth",
-      "LiGamepad2"
+      "LiNewspaper",
+      "LiScale",
+      "LiArchive",
+      "LiBoxes",
+      "LiBox"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +34,10 @@
     "debugMode": false
   },
   "games": "LiGamepad2",
-  "worlds": "LiEarth"
+  "worlds": "LiEarth",
+  "welcome": "LiHome",
+  "custom": "LiPickaxe",
+  "resources": "LiArchive",
+  "legal": "LiScale",
+  "resources/press.md": "LiNewspaper"
 }
