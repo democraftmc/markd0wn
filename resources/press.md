@@ -45,19 +45,29 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 ## 📦 Nos Rendus 3D
 Djjdj
 
+
+
 ![Flat 3D render of the text DEMOCRAFT](https://cdn.democraft.fr/r/title_flat.png)
 Ce rendu 3D ne possède aucun sous-titre et est le plus fidèle au style du dernier logo Minecraft.
+
+
 
 ![Cracked 3D render of the text DEMOCRAFT with both editions on it](https://cdn.democraft.fr/r/title_croosplay.png)
 Ce rendu 3D est le premier que nous avons utiliser - il est d'ailleurs toujours celui sur notre site web.
 
+
+
 ![Cracked 3D render of the text DEMOCRAFT with java edition on it](https://cdn.democraft.fr/r/title_java.png)
 Ce rendu 3D apparaît dans le menu de pause de Minecraft: Java Edition.
+
+
 
 ![Cracked 3D render of the text DEMOCRAFT with bedrock edition on it](https://cdn.democraft.fr/r/title_bedrock.png)
 Ce rendu 3D apparaît dans le menu de pause de Minecraft: Bedrock Edition.
 
 ## 🖍️ Notre Équipe
+
+Nous avons aussi un style de dessin pour réaliser les rendus des membres de notre serveur. Voici un exemple avec notre staff actuel.
 
 {{< table "table-fixed table-hover" >}}
 |                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
@@ -66,3 +76,13 @@ Ce rendu 3D apparaît dans le menu de pause de Minecraft: Bedrock Edition.
 |ROMAINLEGEEK|VAATI73|TOTO|
 | ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) | ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png) | ![TOTO](https://cdn.democraft.fr/r/char_toto.png) |
 {{< /table >}}
+
+On retrouve
+
+|                                                     |                                                   |                                                    |
+| --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
+| ![Cosmo](https://cdn.democraft.fr/r/char_cosmo.png) | ![Ludo](https://cdn.democraft.fr/r/char_ludo.png) | ![Code NY](https://cdn.democraft.fr/r/char_ny.png) |
+
+Yup!
+
+# 📝 Conclusion
