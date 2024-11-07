@@ -15,7 +15,7 @@
               "state": {
                 "file": "resources/press.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "press"

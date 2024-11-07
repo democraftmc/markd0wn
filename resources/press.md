@@ -43,8 +43,10 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 
 
 ## 📦 Nos Rendus 3D
+Djjdj
 
 ![Flat 3D render of the text DEMOCRAFT](https://cdn.democraft.fr/r/title_flat.png)
+Ce rendu 3D ne possède aucun sous-titre et est le plus fidèle au style du dernier logo Minecraft.
 ![Cracked 3D render of the text DEMOCRAFT with both editions on it](https://cdn.democraft.fr/r/title_croosplay.png)
 ![Cracked 3D render of the text DEMOCRAFT with java edition on it](https://cdn.democraft.fr/r/title_java.png)
 ![Cracked 3D render of the text DEMOCRAFT with bedrock edition on it](https://cdn.democraft.fr/r/title_bedrock.png)
@@ -54,6 +56,7 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 {{< table "table-fixed table-hover" >}}
 |                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
 | :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
-| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png) |
-| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png) |
+| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png)|
+|ROMAINLEGEEK|VAATI73|TOTO|
+| ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) | ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png) | ![TOTO](https://cdn.democraft.fr/r/char_toto.png) |
 {{< /table >}}
