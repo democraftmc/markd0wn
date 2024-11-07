@@ -15,7 +15,7 @@ DEMOCRAFT est tout d'abord **un serveur Minecraft**. Vous utilisez donc nos serv
 DEMOCRAFT possède aussi [un site web](https://democraft.fr) ainsi que d'autres services en ligne (tel que notre serveur discord) qui sont aussi sujet à notre CGU.
 
 ##  🚧 Que délimitent ces CGU ?
-Nos CGU délimitent ce que bous avez le droit et ce que vous n'avez pas le droit de faire avec nos différent produit. Imaginez ça comme un règlement mais sur un papier légal. Par exemple, vous devez respecter les [CGV](cgv) et notre [Politique de Confidentialité](privacy).
+Nos CGU délimitent ce que vous avez le droit et ce que vous n'avez pas le droit de faire avec nos différent produit. Imaginez ça comme un règlement mais sur un papier légal. Par exemple, vous devez respecter les [CGV](cgv) et notre [Politique de Confidentialité](privacy).
 
 ##  🔥 Quelques règles :
 - Vous devez respecter le règlement du serveur, qu'il provienne de Minecraft, de Discord ou de toute plateforme tierce qui héberge la communauté de DEMOCRAFT.
