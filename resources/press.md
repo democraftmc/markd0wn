@@ -77,7 +77,7 @@ Nous avons aussi un style de dessin pour réaliser les rendus des membres de not
 | ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) | ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png) | ![TOTO](https://cdn.democraft.fr/r/char_toto.png) |
 {{< /table >}}
 
-On retrouve
+En plus du style partagé entre les avatars, vous retrouverez 
 
 |                                                     |                                                   |                                                    |
 | --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
