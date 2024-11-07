@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ecbad1ddee1025",
+        "id": "7a13062b0a793ac4",
         "type": "tabs",
         "children": [
           {
-            "id": "e1ca335cd60e32f6",
+            "id": "067d2133df7c149f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "resources/press.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "press"
             }
           }
         ]
@@ -121,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {},
+          "state": {
+            "file": "resources/press.md"
+          },
           "icon": "lucide-list",
           "title": "Outline"
         }
@@ -140,8 +146,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1ca335cd60e32f6",
+  "active": "067d2133df7c149f",
   "lastOpenFiles": [
+    "resources/histoire.md",
+    "resources/press.md",
+    "_index.md",
     "README.md",
     "worlds/smp/wip.md",
     "worlds/smp/_index.md",
@@ -165,9 +174,6 @@
     "welcome/connexion/bedrock-edition/ps4-ps5.md",
     "welcome/connexion/bedrock-edition/pe.md",
     "welcome/connexion/bedrock-edition/consoles.md",
-    "welcome/connexion/bedrock-edition/_index.md",
-    "welcome/_index.md",
-    "resources/v4.md",
     "custom/blocks/full-shingle.png",
     "custom/blocks/full-bricks.png",
     "custom/blocks/craft-shingle.png",

@@ -54,5 +54,6 @@ Nous avons une palette de couleur très simple : rouge, rouge et rouge. Si vous 
 {{< table "table-fixed table-hover" >}}
 |                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
 | :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
-| ![DEMO](https://cdn.democraft.fr/r/bg_demo.png) | ![FAMPAGNE](https://cdn.democraft.fr/r/bg_fampagne.png) | ![BULE](https://cdn.democraft.fr/r/bg_bule.png) |
+| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png) |
+| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png) |
 {{< /table >}}
