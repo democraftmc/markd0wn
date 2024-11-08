@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiArmchair",
-      "LiBox",
-      "LiGoal",
-      "LiGem",
-      "LiSwords"
+      "LiMoonStar",
+      "LiOmega",
+      "LiEarthLock",
+      "LiSunMoon",
+      "LiTreePine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,9 +54,13 @@
   "legal/asso": "LiHandshake",
   "games/bedwars": "LiBed",
   "games/pvp": "LiSwords",
-  "games/uhc": "LiGem",
+  "games/uhc": "LiGlasses",
   "games/arcade": "LiGoal",
   "custom/blocks": "LiBox",
   "custom/furniture": "LiArmchair",
-  "custom/minerals": "LiGem"
+  "custom/minerals": "LiGem",
+  "worlds/smp": "LiTreePine",
+  "worlds/reamls": "LiEarthLock",
+  "worlds/oneblock": "LiOmega",
+  "worlds/skyblock": "LiMoonStar"
 }
