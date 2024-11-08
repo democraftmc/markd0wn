@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiPackage2",
-      "LiHardDriveUpload",
-      "LiHeart",
-      "LiCrown",
-      "LiBookCopy"
+      "LiArmchair",
+      "LiBox",
+      "LiGoal",
+      "LiGem",
+      "LiSwords"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,7 +35,7 @@
   },
   "games": "LiGamepad2",
   "worlds": "LiEarth",
-  "welcome": "LiHome",
+  "welcome": "LiRocket",
   "custom": "LiPickaxe",
   "resources": "LiArchive",
   "legal": "LiScale",
@@ -47,5 +47,16 @@
   "resources/staff_guide.md": "LiCrown",
   "resources/community.md": "LiHeart",
   "resources/v4.md": "LiHardDriveUpload",
-  "resources/_index.md": "LiPackage2"
+  "resources/_index.md": "LiPackage2",
+  "_index.md": "LiHome",
+  "welcome/connexion": "LiWifi",
+  "welcome/lobby": "LiBuilding2",
+  "legal/asso": "LiHandshake",
+  "games/bedwars": "LiBed",
+  "games/pvp": "LiSwords",
+  "games/uhc": "LiGem",
+  "games/arcade": "LiGoal",
+  "custom/blocks": "LiBox",
+  "custom/furniture": "LiArmchair",
+  "custom/minerals": "LiGem"
 }
