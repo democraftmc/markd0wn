@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiFan",
-      "LiNewspaper",
-      "LiScale",
-      "LiArchive",
-      "LiBoxes"
+      "LiPackage2",
+      "LiHardDriveUpload",
+      "LiHeart",
+      "LiCrown",
+      "LiBookCopy"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,12 @@
   "resources": "LiArchive",
   "legal": "LiScale",
   "resources/press.md": "LiNewspaper",
-  "worlds/faction": "LiFan"
+  "worlds/faction": "LiFan",
+  "resources/grades.md": "LiTag",
+  "resources/lore.md": "LiScrollText",
+  "resources/histoire.md": "LiBookCopy",
+  "resources/staff_guide.md": "LiCrown",
+  "resources/community.md": "LiHeart",
+  "resources/v4.md": "LiHardDriveUpload",
+  "resources/_index.md": "LiPackage2"
 }

@@ -71,11 +71,11 @@ Ce rendu 3D apparaît dans le menu de pause de Minecraft: Bedrock Edition.
 Nous avons aussi un style de dessin pour réaliser les rendus des membres de notre serveur. Voici un exemple avec notre staff actuel.
 
 {{< table "table-fixed table-hover table-xs table-borderless" >}}
-|                      DEMO                       |                        FAMPAGNE                         |                      BULE                       |
-| :---------------------------------------------: | :-----------------------------------------------------: | :---------------------------------------------: |
-| ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png) | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png)|
-|ROMAINLEGEEK|VAATI73|TOTO|
-| ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) | ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png) | ![TOTO](https://cdn.democraft.fr/r/char_toto.png) |
+|                         FUNASITIEN                          |                        FANTAISIICI                         |                         BENKURO11                         |
+| :---------------------------------------------------------: | :--------------------------------------------------------: | :-------------------------------------------------------: |
+|   ![FUNASITIEN](https://cdn.democraft.fr/r/char_funa.png)   | ![FANTAISIICI](https://cdn.democraft.fr/r/char_fantai.png) | ![BENKURO11](https://cdn.democraft.fr/r/char_benkuro.png) |
+|                      **ROMAINLEGEEK**                       |                        **VAATI73**                         |                         **TOTO**                          |
+| ![ROMAINLEGEEK](https://cdn.democraft.fr/r/char_romain.png) |   ![VAATI73](https://cdn.democraft.fr/r/char_vaati.png)    |     ![TOTO](https://cdn.democraft.fr/r/char_toto.png)     |
 {{< /table >}}
 
 En plus du style partagé entre les avatars, vous retrouverez la palette de blocs derrière chaque avatar avec les couleurs qui correspondent au grades des membres du staff. Il existe aussi des avatars pour les joueurs, comme ces exemples
@@ -83,11 +83,11 @@ En plus du style partagé entre les avatars, vous retrouverez la palette de bloc
 
 {{< table "table-fixed table-hover table-xs table-borderless" >}}
 | Cosmo                                               | Ludo                                              | Code N.Y.                                          |
-| --------------------------------------------------- | ------------------------------------------------- | -------------------------------------------------- |
+| :-------------------------------------------------: | :-----------------------------------------------: | :------------------------------------------------: |
 | ![Cosmo](https://cdn.democraft.fr/r/char_cosmo.png) | ![Ludo](https://cdn.democraft.fr/r/char_ludo.png) | ![Code NY](https://cdn.democraft.fr/r/char_ny.png) |
 {{< /table >}}
 
-*Nous effectuons des commissions et giveway fréquents d'avatars :)*
+*Nous effectuons des commissions et des giveway fréquents d'avatars :)*
 
 # 📝 Conclusion
-Nous espérons vous avoir partager assez de ressources pour alimenter votre article !
+Nous espérons vous avoir partager assez de ressources pour alimenter votre article ! N'hésitez pas à nous contacter pour la moindre question - que ce soit à propos de notre serveur ou de ce kit de presse - nous nous ferons un plaisir de vous assister !
